@@ -22,17 +22,17 @@ Para esta análise, usamos as seguintes bibliotecas do Python:
 O conjunto de dados utilizado contém as seguintes colunas:
 
 * `work_year`: Ano de trabalho
-* job_title: Cargo do profissional
-* job_category: Categoria do cargo
-* salary_currency: Moeda do salário
-* salary: Salário na moeda original
-* salary_in_usd: Salário convertido para USD
-* employee_residence: Local de residência do empregado
-* experience_level: Nível de experiência (Júnior, Pleno, Sênior, etc.)
-* employment_type: Tipo de emprego (tempo integral, freelance, etc.)
-* work_setting: Configuração de trabalho (remoto, híbrido, presencial)
-* company_location: Localização da empresa
-* company_size: Tamanho da empresa (pequena, média, grande)
+* `job_title`: Cargo do profissional
+* `job_category`: Categoria do cargo
+* `salary_currency`: Moeda do salário
+* `salary`: Salário na moeda original
+* `salary_in_usd`: Salário convertido para USD
+* `employee_residence`: Local de residência do empregado
+* `experience_level`: Nível de experiência (Júnior, Pleno, Sênior, etc.)
+* `employment_type`: Tipo de emprego (tempo integral, freelance, etc.)
+* `work_setting`: Configuração de trabalho (remoto, híbrido, presencial)
+* `company_location`: Localização da empresa
+* `company_size`: Tamanho da empresa (pequena, média, grande)
 
 Os dados foram verificados para garantir que não havia valores faltantes e que todos estavam no formato apropriado para análise.
 

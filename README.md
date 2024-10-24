@@ -3,9 +3,9 @@
 ## Introdução
 Com o crescente interesse na área de Ciência de Dados, muitos profissionais estão buscando entender as tendências salariais nesse campo para tomar decisões de carreira mais informadas. Neste artigo, exploraremos um conjunto de dados disponível no Kaggle que contém informações sobre salários de profissionais da área de dados ao redor do mundo. A análise ajudará a responder perguntas como:
 
-1 - Qual o impacto do nível de experiência nos salários?
-2 - Existem diferenças significativas de salário dependendo do local de trabalho ou configuração de trabalho?
-3 - Quais fatores parecem influenciar mais o salário?
+* Qual o impacto do nível de experiência nos salários?
+* Existem diferenças significativas de salário dependendo do local de trabalho ou configuração de trabalho?
+* Quais fatores parecem influenciar mais o salário?
 
 O artigo também é um guia passo a passo para quem deseja aprender mais sobre como realizar uma análise exploratória de dados e usar Python para obter insights acionáveis.
 

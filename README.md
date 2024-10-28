@@ -118,4 +118,3 @@ print(salary_correlation.head(10))
 # Conclusão
 Esta análise demonstrou que existem várias dimensões que influenciam significativamente o salário de profissionais na área de dados. Os fatores mais importantes incluem nível de experiência, localização da empresa e configuração de trabalho. O mercado para esses profissionais é variado e oferece muitas oportunidades, especialmente para quem busca flexibilidade no trabalho remoto.
 
-Para quem deseja explorar mais, o código completo está disponível no repositório do GitHub para facilitar a replicação e expansão desta análise. Sinta-se à vontade para contribuir e compartilhar suas próprias descobertas!
